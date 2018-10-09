@@ -18,9 +18,9 @@ In 2015 I taught myself to use Blender and frequently did 3D modelling in my fre
 
 ![Hong Kong Buildings]({{ "/assets/old blender work/Hong Kong.png" | absolute_url }})
 
-![Victorian House]({{ "/assets/old blender work/Voxel House.png" | absolute_url }})
-
 ![Fantasy City]({{ "/assets/old blender work/City.png" | absolute_url }})
+
+![Victorian House]({{ "/assets/old blender work/Voxel House.png" | absolute_url }})
 
 ![Cable Car]({{ "/assets/old blender work/Cable Car.png" | absolute_url }})
 
