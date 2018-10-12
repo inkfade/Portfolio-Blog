@@ -2,7 +2,7 @@
 layout: post
 title:  "Laser Prospector"
 date:   2018-10-11 14:38:00 +0100
-categories: unity
+tags: Unity
 ---
 Laser Prospector is a mining game where the player can't mine. Instead they must build and maintain mining machinery and infrastructure. The game's score is the player's average mining rate, so they must focus on efficiency and on rapidly expanding their operations.
 

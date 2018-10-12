@@ -2,7 +2,7 @@
 layout: post
 title:  "Bots In Us"
 date:   2018-10-10 20:08:00 +0100
-categories: unity
+tags: Unity
 ---
 At Global Game Jam in January 2018 I worked as part of a team of 4 to make Bots In Us, a cyberpunk-themed survival game. The player controls an AI hivemind of nanobot-infected people. The hivemind is being hunted by government agents in a dark forest. The player must send individual people to lure agents away from the group and into bear traps.
 

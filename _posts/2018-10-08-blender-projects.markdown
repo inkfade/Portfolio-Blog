@@ -2,7 +2,7 @@
 layout: post
 title:  "Blender Projects"
 date:   2018-10-08 21:12:00 +0100
-categories: blender
+tags: Blender
 ---
 In 2015 I taught myself to use Blender and frequently did 3D modelling in my free time. I mostly modelled architecture and environments, often incorporating low-poly, voxel and pixel art styles. Below are some examples of my work.
 
